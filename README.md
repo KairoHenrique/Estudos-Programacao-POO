@@ -49,10 +49,7 @@ Estudos-Programacao-POO/
 
 1. Use um compilador como `g++`
 2. Navegue até o diretório `cpp/`.
-3. Compile e execute, por exemplo:
-   ```bash
-   g++ aula01/exercicio1.cpp -o exercicio1
-   ./exercicio1
+3. Compile e execute.
 
 Autor
 
